@@ -54,7 +54,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-50 text-gray-900 transition-colors">
       {/* Header */}
-      <AppBar
+<AppBar
         position="sticky"
         elevation={0}
         className="border-b border-gray-200"
